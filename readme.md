@@ -13,7 +13,8 @@
 ![avatar](1.jpg)
 
 ## Код программы:
-using System;
+```C#
+ using System;
 					
 public class Program
 {
@@ -65,4 +66,4 @@ public class Program
     Res(arr3);
     }
 }
-
+```
